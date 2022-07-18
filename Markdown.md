@@ -7,6 +7,7 @@ Unlike a WYSIWYG editor Markdown uses syntax in the text to indicate which words
 similar to applying CSS to html this applies basic formatting to the document.
 
 ## Element	Markdown Syntax
+
 | Syntax | Desrciption |
 | Heading|	# H1 |
 | ##     | H2 |
