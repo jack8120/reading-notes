@@ -7,20 +7,20 @@ Unlike a WYSIWYG editor Markdown uses syntax in the text to indicate which words
 similar to applying CSS to html this applies basic formatting to the document.
 
 ## Element	Markdown Syntax
-| Syntax | Desrciption|
-| Heading|	# H1|
-| ##     | H2|
-| ###    | H3|
-| Bold	  | **bold text**|
-| Italic |	*italicized text*|
-| Blockquote	| > blockquote|
-| Ordered List	| 1. First item|
-|             | 2. Second item|
-|             | 3. Third item|
-| Unordered List|	- First item|
-|             | - Second item|
-|  | - Third item|
-| Code	  | `code`|
-| Horizontal Rule | 	---|
-| Link	    | [title](https://www.example.com)|
-| Image	 | ![alt text](image.jpg)|
+| Syntax | Desrciption |
+| Heading|	# H1 |
+| ##     | H2 |
+| ###    | H3 |
+| Bold	  | **bold text** |
+| Italic |	*italicized text* |
+| Blockquote	| > blockquote |
+| Ordered List	| 1. First item |
+|             | 2. Second item |
+|             | 3. Third item |
+| Unordered List|	- First item |
+|             | - Second item |
+|  | - Third item |
+| Code	  | `code` |
+| Horizontal Rule | 	--- | 
+| Link	    | [title](https://www.example.com) |
+| Image	 | ![alt text](image.jpg) |
