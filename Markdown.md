@@ -6,6 +6,8 @@ Created by John Gruber in 2004, Markdown is now one of the world’s most popula
 Unlike a WYSIWYG editor Markdown uses syntax in the text to indicate which words should look different, 
 similar to applying CSS to html this applies basic formatting to the document.
 
+the table below shows some common examples
+
 ## Element	Markdown Syntax
 
 | Syntax | Desrciption |
